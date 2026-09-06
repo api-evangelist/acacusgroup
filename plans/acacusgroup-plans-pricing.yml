@@ -1,0 +1,20 @@
+generated: '2026-09-06'
+method: searched
+source: https://www.acacusgroup.com/
+docs: https://www.acacusgroup.com/intelligent-fleet-management-lynx
+plan_count: 0
+model: enterprise-contact-only
+note: >-
+  Acacus publishes no pricing at all. The full sitemap (https://www.acacusgroup.com/sitemap.xml,
+  HTTP 200) contains no pricing, plans or signup page, and the Lynx product page closes with
+  "Request a demo." rather than a tier table. Third-party summaries describe a SaaS subscription
+  model, but no rate, tier, quota or currency is published on the company's own surface, so nothing
+  is recorded here. There is also no public API, so there are no API plans to price.
+plans: []
+evidence:
+- url: https://www.acacusgroup.com/sitemap.xml
+  status: 200
+  note: 39 URLs, none pricing-related
+- url: https://www.acacusgroup.com/intelligent-fleet-management-lynx
+  status: 200
+  note: '"Request a demo." is the only call to action'

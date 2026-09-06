@@ -64,5 +64,10 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Acacusgroup is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/acacusgroup
+Acacus Group (Acacus Technologies) is a Dubai-headquartered mobility technology company founded in 2013 that builds artificial-intelligence and machine-learning software for the transportation and airline industries. Its Lynx product family — Lynx, Lynx Pro and Lynx Vision — provides intelligent fleet management, optimized dispatch, disruption management, telematics and deep-learning in-vehicle video analytics. Acacus also develops autonomous vehicle technology and Peregrine, an optimization solution for airline crew and airport operations.
+
+**No public API surface.** As of 2026-09-06 Acacus publishes no developer portal, API reference, OpenAPI/AsyncAPI/GraphQL contract, SDK, MCP server or agent card. Lynx is sold as an enterprise SaaS subscription through a demo request. See `x-coverage` in `apis.yml` for the probes behind that finding.
+
+- Website: https://www.acacusgroup.com/
+- GitHub: https://github.com/AcacusTechnologies
+- Secondary-market listing: https://equityzen.com/company/acacusgroup

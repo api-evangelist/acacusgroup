@@ -1,0 +1,70 @@
+generated: '2026-09-06'
+method: probed
+source: >-
+  Live anonymous HTTPS probes of /.well-known/ paths on every host this record knows
+  (registrable domain acacusgroup.com and www). Acacus publishes no API, so there are no
+  API baseURL hosts, no OpenAPI servers[] hosts, and no separate docs/console host to probe;
+  DNS lookups for api./docs./developer./developers./app./portal./console./lynx.acacusgroup.com
+  all returned NXDOMAIN. Every path is a recorded MISS — no WellKnown or SecurityTxt pointer
+  is emitted, because the provider serves none of these documents.
+result: none
+hosts:
+- host: acacusgroup.com
+  note: >-
+    Apex 301-redirects every path to the www host, which is the Squarespace origin;
+    the redirect target's status is recorded on the www host below.
+  documents:
+  - path: /.well-known/security.txt
+    status: 301
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 301
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 301
+    file: null
+  - path: /.well-known/oauth-protected-resource
+    status: 301
+    file: null
+  - path: /.well-known/api-catalog
+    status: 301
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 301
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 301
+    file: null
+  - path: /.well-known/agent.json
+    status: 301
+    file: null
+- host: www.acacusgroup.com
+  note: >-
+    Squarespace origin. security.txt answers with the platform's own JSON miss body
+    ({"message":"security.txt not found"}); every other path returns the site's 404 HTML page.
+    No document was served, so nothing was saved.
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/oauth-protected-resource
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
