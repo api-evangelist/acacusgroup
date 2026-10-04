@@ -27,7 +27,7 @@ tags:
 - Logistics
 - Mobility
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Autonomous Vehicles
 - Telematics
 - Aviation
@@ -42,6 +42,7 @@ tags_raw:
 - Autonomous Vehicles
 - Telematics
 - Aviation
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
