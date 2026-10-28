@@ -1,4 +1,4 @@
-# Acacusgroup
+# Acacus Group
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,10 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Acacus Group (Acacus Technologies) is a Dubai-headquartered mobility technology company founded in 2013 that builds artificial-intelligence and machine-learning software for the transportation and airline industries. Its Lynx product family — Lynx, Lynx Pro and Lynx Vision — provides intelligent fleet management, optimized dispatch, disruption management, telematics and deep-learning in-vehicle video analytics. Acacus also develops autonomous vehicle technology and Peregrine, an optimization solution for airline crew and airport operations.
+Acacus Group (Acacus Technologies) is a Dubai-headquartered mobility technology company founded in 2013 that builds artificial-intelligence and machine-learning software for the transportation and airline industries. Its Lynx product family — Lynx, Lynx Pro and Lynx Vision — provides intelligent fleet management, optimized dispatch built on mathematical combinatorics, disruption management, telematics and vehicle diagnostics, and deep-learning video analytics from in-vehicle cameras covering driver fatigue, lane departure, tailgating and passenger counting. Acacus also develops autonomous vehicle technology and Peregrine, an optimization solution for airline crew and airport operations. It won Best Global Startup at GITEX 2016 in Dubai and signed an MOU with Dubai Police for driverless patrol vehicles. Lynx sells as an enterprise SaaS subscription through a demo request; Acacus publishes no public developer program or machine-readable API contract.
 
-**No public API surface.** As of 2026-09-06 Acacus publishes no developer portal, API reference, OpenAPI/AsyncAPI/GraphQL contract, SDK, MCP server or agent card. Lynx is sold as an enterprise SaaS subscription through a demo request. See `x-coverage` in `apis.yml` for the probes behind that finding.
+**Areas:** Company · Fleet Management · Transportation · Logistics · Mobility · Artificial Intelligence · Machine Learning · Autonomous Vehicles · Telematics · Aviation
 
-- Website: https://www.acacusgroup.com/
-- GitHub: https://github.com/AcacusTechnologies
-- Secondary-market listing: https://equityzen.com/company/acacusgroup
+## Acacus Group on APIs.io
+
+Everything profiled for Acacus Group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/acacusgroup/](https://apis.io/providers/acacusgroup/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Acacusgroup Domain Security](https://apis.io/security/acacusgroup/acacusgroup-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Acacusgroup Plans Pricing](https://apis.io/plans/acacusgroup/acacusgroup-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.acacusgroup.com/)
+- [Support](https://www.acacusgroup.com/contact-us)
+- [Blog](https://www.acacusgroup.com/news)
+- [Privacy policy](https://www.acacusgroup.com/privacy-policy)
+- [GitHub](https://github.com/AcacusTechnologies)
+
+## API Evangelist rating
+
+**Kin Score 7.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/acacusgroup/](https://apis.io/providers/acacusgroup/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Acacus Group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/acacusgroup/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
