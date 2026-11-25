@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Acacusgroup Domain Security](https://apis.io/security/acacusgroup/acacusgroup-domain-security/)
+- [Acacus Group Domain Security](https://apis.io/security/acacusgroup/acacusgroup-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Acacusgroup Plans Pricing](https://apis.io/plans/acacusgroup/acacusgroup-plans-pricing/)
+- [Acacus Group Plans Pricing](https://apis.io/plans/acacusgroup/acacusgroup-plans-pricing/)
 
 ## Where to find this API
 
@@ -100,16 +100,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 7.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 7.9** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 49.1 |
+| Discoverability | 50.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 2.6 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
 **Agent readiness 0.0** — human-only
 
@@ -134,8 +134,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 3.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/acacusgroup/](https://apis.io/providers/acacusgroup/).
 
